@@ -1,0 +1,42 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result-1 ,#result-2
+{
+  color: black;
+  font-size: 40px;
+}
+button
+{
+   background-color: crimson;
+   font-family: cursive;
+   color: black;
+}
+.pd
+{
+  background-color: blueviolet;
+  text-decoration-color: cornsilk;
+  font-size: large;
+}
+.emoji_land
+{
+  font-size:48px;
+}
+#lab,#tab
+{
+  font-family: cursive;
+  font-size: large;
+  color: black;
+}
